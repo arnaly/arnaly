@@ -15,8 +15,8 @@
 ## 🧑‍💻 About Me
 
 <ul style="list-style:none; padding-left: 0; max-width: 650px;">
-  <li>🎓 Junior Full Stack Developer based in <b>Barcelona, Spain</b>.</li>
-  <li>📚 Recently graduated in <b>Web Application Development (DAW)</b>.</li>
+  <li>🎓 Junior Full Stack Developer.</li>
+  <li>📚 Graduated in <b>Web Application Development (DAW)</b>.</li>
   <li>🛠️ Passionate about building scalable and clean web applications.</li>
   <li>🎹 Piano player in my free time — a way to relax and get creative.</li>
   <li>🚀 Actively seeking opportunities to contribute, learn, and grow in software development.</li>
