@@ -126,12 +126,12 @@
 ## 📈 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnaly&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaly&theme=tokyonight&hide_title=true" />
 </p>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaly&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" />
 </p>
 
 ---
@@ -139,7 +139,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XxArnauGxX&theme=onedark&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arnaly&theme=onedark&row=2&column=3" />
 </p>
 
 ---
@@ -147,7 +147,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/arnaly/arnaly/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 > Generated with [Platane/snk](https://github.com/Platane/snk)
@@ -157,7 +157,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arnaly&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
