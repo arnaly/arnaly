@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
+<h1 align="center">Hi there! 👋 I'm Arnau (@arnaly)</h1>
 
 <p align="center">
   <a href="https://github.com/XxArnauGxX" style="text-decoration:none;">
