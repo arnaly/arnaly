@@ -154,8 +154,6 @@
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnaly&style=flat-square&color=blue" alt="profile views" />
 </p>
