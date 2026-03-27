@@ -11,6 +11,7 @@
 </p>
 
 ---
+![Stats](./profile/stats.svg)
 
 ## 🧑‍💻 About Me
 
